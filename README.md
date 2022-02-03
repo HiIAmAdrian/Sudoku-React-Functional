@@ -1,3 +1,12 @@
+# My first project using functional React js
+
+Sudoku game with the following functionalities:
+-choose game difficulty
+-choose time limit
+-lives counter
+-hint and pause buttons
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
